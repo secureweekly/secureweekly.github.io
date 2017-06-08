@@ -1,10 +1,9 @@
-# [swiftweekly.github.io](https://swiftweekly.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
+# [secureweekly.github.io](https://secureweekly.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
 
-*A community-driven weekly newsletter about [Swift.org](https://swift.org)*
+*A community-driven weekly newsletter about Security*
 
-> Curated by [@jesse_squires](https://twitter.com/jesse_squires). 
 >
->[**Subscribe**](http://swiftweekly.github.io/subscribe/) to get the best summary about what's happening in the Swift open source projects every week.
+>[**Subscribe**](http://secureweekly.github.io/subscribe/) to get the best summary about what's happening in the security
 
 <img src="https://raw.githubusercontent.com/SwiftWeekly/swiftweekly.github.io/master/img/logo.png" width="250"/>
 
