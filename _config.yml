@@ -14,18 +14,18 @@ exclude: [vendor]
 permalink: /:title/
 
 # Site
-title: 'Swift Weekly Brief'
-description: 'A community-driven weekly newsletter about Swift.org'
-url: https://swiftweekly.github.io
+title: 'Study Weekly Brief'
+description: 'A study weekly newsletter about myself'
+url: https://weeklyarchiv.github.io
 logo: /img/logo.png
 timezone: America/Los_Angeles
 
 twitter:
-    username: swiftlybrief
+    username: dleyanlin
 
 curator:
-    name: 'Jesse Squires'
-    url: https://twitter.com/jesse_squires
+    name: 'drewz lin'
+    url: https://twitter.com/dleyanlin
 
 # Setup
 excerpt_separator: <!--excerpt-->
@@ -33,8 +33,8 @@ excerpt_separator: <!--excerpt-->
 # Data
 links:
     rss: '/feed.xml'
-    twitter: 'https://twitter.com/swiftlybrief'
-    github: 'https://github.com/SwiftWeekly/swiftweekly.github.io'
-    issue: 'https://github.com/SwiftWeekly/swiftweekly.github.io/issues/new'
-    pull: 'https://github.com/SwiftWeekly/swiftweekly.github.io/compare'
-    applenews: 'https://apple.news/TIlGIYluMTGWA-CIToVtF4Q'
+    twitter: 'https://twitter.com/dleyanlin'
+    github: 'https://github.com/weeklyarchive/weeklyarchive.github.io'
+    issue: 'https://github.com/weeklyarchive/weeklyarchive.github.io/issues/new'
+    pull: 'https://github.com/weeklyarchive/weeklyarchive.github.io/compare'
+    #applenews: 'https://apple.news/TIlGIYluMTGWA-CIToVtF4Q'
