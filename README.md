@@ -1,4 +1,4 @@
-# [weeklyarchive.github.io](https:/weeklyarchive.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
+# [weeklyarchive.github.io](https://weeklyarchive.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
 
 *A community-driven weekly newsletter about Knowledge*
 
