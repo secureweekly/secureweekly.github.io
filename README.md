@@ -1,21 +1,17 @@
-# [secureweekly.github.io](https://secureweekly.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
+# [weeklyarchive.github.io](https:/weeklyarchive.github.io) [![Build Status](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io.svg?branch=master)](https://travis-ci.org/SwiftWeekly/swiftweekly.github.io)
 
-*A community-driven weekly newsletter about Security*
+*A community-driven weekly newsletter about Knowledge*
 
 >
->[**Subscribe**](http://secureweekly.github.io/subscribe/) to get the best summary about what's happening in the security
+>[**Subscribe**](http://weeklyarchive.github.io/subscribe/) to get the best summary about what's happening in the security
 
 <img src="https://raw.githubusercontent.com/SwiftWeekly/swiftweekly.github.io/master/img/logo.png" width="250"/>
 
 ## About
 
-This newsletter was originally started by [Jesse Squires](https://github.com/jessesquires), and hosted on his blog at [jessesquires.com](http://www.jessesquires.com). After issue #4, this site was created to provide the newsletter with a proper, dedicated home. All previous issues were [migrated](http://www.jessesquires.com/new-weekly-brief/), and it is now completely open for the community. Contributions are welcomed and encouraged!
+This newsletter was originally started by [Drewz Lin](https://github.com/dleyanlin), and hosted on his blog at [dleyanlin.github.io](http://dleyanlin.github.io). 
 
 Lovingly built with [Jekyll](https://jekyllrb.com), [Bootstrap](https://getbootstrap.com), [jQuery](https://jquery.com), and [Font Awesome](https://fortawesome.github.io/Font-Awesome/). Generously hosted by [GitHub](https://pages.github.com).
-
-## Authors
-
-There are a number of [contributing authors](https://swiftweekly.github.io/authors/) to the newsletter. If you'd like to join, open an issue to discuss!
 
 ## Usage
 
@@ -47,10 +43,6 @@ $ bundle exec jekyll serve
 ```bash
 $ bundle exec jekyll build --future --drafts --watch
 ```
-
-## Contributing
-
-For content suggestions, fixes, or corrections — please see [`CONTRIBUTING.md`](https://github.com/SwiftWeekly/swiftweekly.github.io/blob/master/CONTRIBUTING.md).
 
 ## License
 
